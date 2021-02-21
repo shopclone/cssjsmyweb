@@ -15687,15 +15687,15 @@ select.selectpicker {
 
 html,
 body {
-    cursor: url("/upload/mouse.png"), progress;
+    cursor: url("/cssjsmyweb/upload/mouse.png"), progress;
 }
 
 a:hover {
-    cursor: url("/upload/mouse1.png"), progress;
+    cursor: url("/cssjsmyweb/upload/mouse1.png"), progress;
 }
 
 .btn:hover {
-    cursor: url("/upload/mouse1.png"), progress;
+    cursor: url("/cssjsmyweb/upload/mouse1.png"), progress;
 }
 
 
